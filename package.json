@@ -13,7 +13,8 @@
     "test:ui": "vitest --ui",
     "test:coverage": "vitest run --coverage",
     "sitemap": "node scripts/generate-sitemap.js",
-    "analyze": "ANALYZE=true next build"
+    "analyze": "ANALYZE=true next build",
+    "vercel-build": "npm run build"
   },
   "dependencies": {
     "@react-three/drei": "9.84.2",

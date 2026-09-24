@@ -4,7 +4,7 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
+Sitemap: https://manju-l-portfolio.vercel.app/sitemap.xml
 
 # Disallow private/admin areas
 Disallow: /api/

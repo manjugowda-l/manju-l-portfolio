@@ -10,7 +10,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Replace this with your real deployed portfolio URL before deployment.
-const siteUrl = 'https://YOUR-DOMAIN.com';
+const siteUrl = 'https://manju-l-portfolio.vercel.app';
 
 /**
  * Extract project slugs from projects.ts using regex.

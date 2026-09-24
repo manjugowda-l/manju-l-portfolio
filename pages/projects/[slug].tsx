@@ -20,7 +20,7 @@ interface ProjectPageProps {
 }
 
 export default function ProjectPage({ project }: ProjectPageProps) {
-  const siteUrl = 'https://YOUR-DOMAIN.com';
+  const siteUrl = 'https://manju-l-portfolio.vercel.app';
 
   const structuredData = {
     '@context': 'https://schema.org',

@@ -17,7 +17,7 @@ const defaultTitle = 'Manju L — Portfolio';
 const defaultDescription =
   'Portfolio of Manju L, an engineering student focused on full-stack development, cloud and DevOps, and AI-powered development.';
 
-const siteUrl = 'https://YOUR-DOMAIN.com';
+const siteUrl = 'https://manju-l-portfolio.vercel.app';
 
 export function SEO({
   title = defaultTitle,
