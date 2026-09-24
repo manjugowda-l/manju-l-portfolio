@@ -1,9 +1,10 @@
-# Robots.txt for Vaibhav Kumar Portfolio
+# Robots.txt for Manju L Portfolio
+
 User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://vaibhavk.dev/sitemap.xml
+Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
 
 # Disallow private/admin areas
 Disallow: /api/
