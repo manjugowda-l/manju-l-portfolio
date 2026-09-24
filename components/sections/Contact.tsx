@@ -12,7 +12,7 @@ import {
 } from 'lucide-react';
 import { useState, FormEvent } from 'react';
 
-const PHONE_NUMBER = '+91 9901918795';
+//const PHONE_NUMBER = '+91 9901918795';
 
 export function Contact() {
   const [formState, setFormState] = useState<
@@ -195,9 +195,9 @@ export function Contact() {
               Phone
             </span>
 
-            <span className="text-sm font-medium text-white truncate block">
+            {/*<span className="text-sm font-medium text-white truncate block">
               {PHONE_NUMBER}
-            </span>
+            </span>*/}
           </div>
         </motion.div>
 
@@ -362,10 +362,10 @@ export function Contact() {
               Full-Time • Internship • Contract • Freelance • Project Opportunities
             </p>
 
-            <p className="flex items-center gap-2 text-sm font-mono text-white/50">
+            {/*/*<p className="flex items-center gap-2 text-sm font-mono text-white/50">
               <Phone className="w-4 h-4" />
               {PHONE_NUMBER}
-            </p>
+            </p>*/}
           </div>
         </motion.div>
       </div>
